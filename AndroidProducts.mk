@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_apollon.mk
+    $(LOCAL_DIR)/mokee_apollon.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_apollon-user \
-    lineage_apollon-userdebug \
-    lineage_apollon-eng
+    mokee_apollon-user \
+    mokee_apollon-userdebug \
+    mokee_apollon-eng
